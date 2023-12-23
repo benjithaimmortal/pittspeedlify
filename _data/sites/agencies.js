@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Pittsburgh Design Agency Websites", // optional, falls back to object key
-	description: "Pittsburgh Design Agency Websites",
+	description: "Pittsburgh Design Agency Websites VS Dot Foundry",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	// skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
