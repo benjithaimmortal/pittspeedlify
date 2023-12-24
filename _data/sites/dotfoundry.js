@@ -7,7 +7,7 @@ module.exports = {
 		// frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://dotfoundrystg.wpengine.com/",
+		"https://dotfoundrystg.wpenginepowered.com/",
         "https://dotfoundry.co/talent/",
 		"https://dotfoundry.co/contact/",
         // popular posts
