@@ -165,18 +165,18 @@ abbr {
 	position: absolute;
 	top: 0;
 	left: 0;
-	font-size: 1.5em;
+	font-size: 1em;
 	line-height: 1;
-	padding: .25em .5em;
 	color: #fff;
 	z-index: 2;
+	background-color: hsl(333, 100%, 20%);
 }
 
-.leaderboard-list-entry-badrank .leaderboard-number {
+.leaderboard-list-entry-badrank td.leaderboard-number {
 	position: relative;
 	background: hsl(333, 100%, 20%, 25%);
 }
-.leaderboard-list-entry-badrank .leaderboard-number::before {
+.leaderboard-list-entry-badrank td.leaderboard-number::before {
 	content: "";
 	position: absolute;
 	top: 0;
