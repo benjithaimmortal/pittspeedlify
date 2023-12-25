@@ -164,23 +164,28 @@ abbr {
 	content: "⚠️ Ranking error ⚠️";
 	position: absolute;
 	top: 0;
-	right: 0;
+	left: 0;
 	font-size: 1.5em;
 	line-height: 1;
 	padding: .25em .5em;
 	color: #fff;
 	z-index: 2;
 }
-.leaderboard-list-entry-badrank::before {
+
+.leaderboard-list-entry-badrank .leaderboard-number {
+	position: relative;
+}
+.leaderboard-list-entry-badrank .leaderboard-number::before {
 	content: "";
 	position: absolute;
 	top: 0;
-	right: 0;
+	left: 0;
 	width: 100%;
 	height: 100%;
 	/* a candystriped background image (linear gradient) */
-	background-image: linear-gradient(45deg, hsl(333, 100%, 20%) 25%, transparent 25%, transparent 50%, hsl(333, 100%, 20%) 50%, hsl(333, 100%, 20%) 75%, transparent 75%, transparent);
+	background-image: linear-gradient(-45deg, hsl(333, 100%, 20%) 5%, transparent 5%, transparent 45%, hsl(333, 100%, 20%) 45%, hsl(333, 100%, 20%) 55%, transparent 55%, transparent 95%, hsl(333, 100%, 20%) 95%);
 	z-index: 1;
+	background-size: 75px;
 }
 .js .leaderboard-list-entry-details:not(.expanded) {
 	display: none;
