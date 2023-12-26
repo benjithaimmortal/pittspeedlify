@@ -7,7 +7,15 @@ module.exports = {
 		// frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://dotfoundrystg.wpenginepowered.com/",
+		// staging site
+		"https://dotfoundrystgswpenginepowered.com/",
+        "https://dotfoundrystg.wpenginepowered.com/talent/",
+		"https://dotfoundrystg.wpenginepowered.com/contact/",
+        // popular posts
+        "https://dotfoundrystg.wpenginepowered.com/what-a-design-collective-does/",
+        "https://dotfoundrystg.wpenginepowered.com/illustrations-for-inktober-the-sketchiest-time-of-year/",
+        "https://dotfoundrystg.wpenginepowered.com/post-ai-graphic-design/",
+		// regular site
         "https://dotfoundry.co/talent/",
 		"https://dotfoundry.co/contact/",
         // popular posts
