@@ -8,7 +8,7 @@ module.exports = {
 	},
 	urls: [
 		// staging site
-		"https://dotfoundrystgswpenginepowered.com/",
+		"https://dotfoundrystg.wpenginepowered.com/",
         "https://dotfoundrystg.wpenginepowered.com/talent/",
 		"https://dotfoundrystg.wpenginepowered.com/contact/",
         // popular posts
