@@ -38,6 +38,8 @@ module.exports = {
         "https://cosmitto.digital/",
         "https://www.sparqdesigns.com/",
         "https://www.walltowall.com/",
-        "https://www.bluearcher.com/"
+        "https://www.bluearcher.com/",
+        "https://oystercreates.com",
+        "https://ocreations.com"
 	]
 };
