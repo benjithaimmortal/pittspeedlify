@@ -40,6 +40,6 @@ module.exports = {
         "https://www.walltowall.com/",
         "https://www.bluearcher.com/",
         "https://oystercreates.com",
-        "https://ocreations.com"
+        "https://www.ocreations.com"
 	]
 };

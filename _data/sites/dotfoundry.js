@@ -1,6 +1,7 @@
 module.exports = {
 	name: "Dot Foundry", // optional, falls back to object key
 	description: "other popular Dot Foundry pages",
+	unordered: true,
 	options: {
 		runs: 1,
 		frequency: 60 * 23, // (in minutes)
