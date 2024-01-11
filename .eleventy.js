@@ -324,6 +324,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addWatchTarget("./assets/");
+	eleventyConfig.addPassthroughCopy("./assets/");
 
 	eleventyConfig.setBrowserSyncConfig({
 		ui: false,
