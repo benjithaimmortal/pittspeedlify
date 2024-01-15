@@ -6,7 +6,7 @@ module.exports = {
 	// skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
 	options: {
         runs: 1,
-		frequency: 60 * 23, // 24 hours
+		frequency: 60, // 24 hours
 		// frequency: 1,
         // bypassAxe: true,
 		// Use "run" if the sites don’t share assets on the same origin
