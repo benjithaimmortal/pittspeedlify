@@ -5,6 +5,7 @@ module.exports = {
 	options: {
 		runs: 2,
 		frequency: 60 * 23, // (in minutes)
+		bypassAxe: true,
 		// frequency: 1, // (in minutes)
 	},
 	urls: [
