@@ -1,0 +1,55 @@
+{
+  "url": "https://redshiftdm.com/",
+  "requestedUrl": "https://redshiftdm.com/",
+  "timestamp": 1705295076808,
+  "ranks": {
+    "hundos": 24,
+    "performance": 23,
+    "accessibility": 9,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": null,
+    "accessibility": 0.87,
+    "bestPractices": null,
+    "seo": 0.91,
+    "total": 178
+  },
+  "timeToFirstByte": 253.103,
+  "weight": {
+    "summary": "76 requests • 1.1 MiB",
+    "total": 1116252,
+    "image": 176483,
+    "imageCount": 20,
+    "script": 19858,
+    "scriptCount": 4,
+    "document": 54881,
+    "font": 284041,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 21,
+    "-weight.document": 20,
+    "+weight.document": 5,
+    "-weight.script": 2,
+    "+weight.script": 23,
+    "-weight.image": 5,
+    "+weight.image": 20,
+    "-weight.font": 13,
+    "+weight.font": 11,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "passes": 815,
+    "violations": 17
+  }
+}

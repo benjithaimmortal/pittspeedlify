@@ -1,0 +1,67 @@
+{
+  "url": "https://ghadv.com/",
+  "requestedUrl": "https://ghadv.com/",
+  "timestamp": 1705295054990,
+  "ranks": {
+    "hundos": 17,
+    "performance": 19,
+    "accessibility": 16,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.53,
+    "accessibility": 0.81,
+    "bestPractices": 0.78,
+    "seo": 0.85,
+    "total": 297
+  },
+  "firstContentfulPaint": 3705.115,
+  "firstMeaningfulPaint": 10323.125600000001,
+  "speedIndex": 8486.580835660552,
+  "largestContentfulPaint": 12521.880400000002,
+  "totalBlockingTime": 315.5,
+  "cumulativeLayoutShift": 0.023434479475326894,
+  "timeToInteractive": 14100.929455175785,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 36.141999999999996,
+  "weight": {
+    "summary": "87 requests • 10.9 MiB",
+    "total": 11428965,
+    "image": 62377,
+    "imageCount": 15,
+    "script": 657720,
+    "scriptCount": 27,
+    "document": 36102,
+    "font": 1328674,
+    "fontCount": 4,
+    "stylesheet": 48525,
+    "stylesheetCount": 8,
+    "thirdParty": 10513696,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 5,
+    "-weight.document": 15,
+    "+weight.document": 10,
+    "-weight.script": 11,
+    "+weight.script": 14,
+    "-weight.image": 2,
+    "+weight.image": 23,
+    "-weight.font": 23,
+    "+weight.font": 1,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 16
+  },
+  "axe": {
+    "passes": 779,
+    "violations": 20
+  }
+}

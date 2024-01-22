@@ -1,0 +1,67 @@
+{
+  "url": "https://carney.co/",
+  "requestedUrl": "https://carney.co/",
+  "timestamp": 1705813329999,
+  "ranks": {
+    "hundos": 18,
+    "performance": 13,
+    "accessibility": 19,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.6,
+    "accessibility": 0.78,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 298
+  },
+  "firstContentfulPaint": 2268.4740000000006,
+  "firstMeaningfulPaint": 3487.7211000000007,
+  "speedIndex": 7753.270208481645,
+  "largestContentfulPaint": 4585.6768999999995,
+  "totalBlockingTime": 540,
+  "cumulativeLayoutShift": 0.014367534245073343,
+  "timeToInteractive": 12625.215774072269,
+  "maxPotentialFirstInputDelay": 201,
+  "timeToFirstByte": 69.621,
+  "weight": {
+    "summary": "96 requests • 10.7 MiB",
+    "total": 11180609,
+    "image": 4591563,
+    "imageCount": 30,
+    "script": 1072470,
+    "scriptCount": 31,
+    "document": 43143,
+    "font": 110865,
+    "fontCount": 5,
+    "stylesheet": 97988,
+    "stylesheetCount": 6,
+    "thirdParty": 1049211,
+    "thirdPartyCount": 17
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 5,
+    "-weight.document": 17,
+    "+weight.document": 7,
+    "-weight.script": 19,
+    "+weight.script": 5,
+    "-weight.image": 19,
+    "+weight.image": 5,
+    "-weight.font": 4,
+    "+weight.font": 19,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 571,
+    "violations": 22
+  }
+}

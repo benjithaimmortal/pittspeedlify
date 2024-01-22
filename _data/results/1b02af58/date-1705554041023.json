@@ -1,0 +1,55 @@
+{
+  "url": "https://www.ocreations.com/",
+  "requestedUrl": "https://www.ocreations.com/",
+  "timestamp": 1705554343436,
+  "ranks": {
+    "hundos": 24,
+    "performance": 24,
+    "accessibility": 21,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": null,
+    "accessibility": 0.77,
+    "bestPractices": null,
+    "seo": 0.86,
+    "total": 163
+  },
+  "timeToFirstByte": 2696.958,
+  "weight": {
+    "summary": "187 requests • 6.6 MiB",
+    "total": 6925089,
+    "image": 3323739,
+    "imageCount": 45,
+    "script": 1368640,
+    "scriptCount": 96,
+    "document": 1609871,
+    "font": 440955,
+    "fontCount": 13,
+    "stylesheet": 134167,
+    "stylesheetCount": 16,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 8,
+    "-weight.document": 24,
+    "+weight.document": 1,
+    "-weight.script": 22,
+    "+weight.script": 3,
+    "-weight.image": 17,
+    "+weight.image": 8,
+    "-weight.font": 20,
+    "+weight.font": 4,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 22
+  },
+  "axe": {
+    "passes": 1308,
+    "violations": 57
+  }
+}

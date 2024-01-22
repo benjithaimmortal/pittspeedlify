@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bluearcher.com/",
+  "requestedUrl": "https://www.bluearcher.com/",
+  "timestamp": 1705541337313,
+  "ranks": {
+    "hundos": 22,
+    "performance": 19,
+    "accessibility": 22,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.54,
+    "accessibility": 0.73,
+    "bestPractices": 0.74,
+    "seo": 0.77,
+    "total": 278
+  },
+  "firstContentfulPaint": 2013.0714999999996,
+  "firstMeaningfulPaint": 6475.392099999999,
+  "speedIndex": 6466.372898778755,
+  "largestContentfulPaint": 15292.202100000004,
+  "totalBlockingTime": 73.5,
+  "cumulativeLayoutShift": 0.26337449332677915,
+  "timeToInteractive": 8707.3322,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 425.046,
+  "weight": {
+    "summary": "124 requests • 3.7 MiB",
+    "total": 3880604,
+    "image": 2869569,
+    "imageCount": 32,
+    "script": 426337,
+    "scriptCount": 27,
+    "document": 126041,
+    "font": 409924,
+    "fontCount": 8,
+    "stylesheet": 44545,
+    "stylesheetCount": 14,
+    "thirdParty": 1040071,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 13,
+    "-weight.document": 23,
+    "+weight.document": 2,
+    "-weight.script": 7,
+    "+weight.script": 18,
+    "-weight.image": 16,
+    "+weight.image": 9,
+    "-weight.font": 19,
+    "+weight.font": 5,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 20
+  },
+  "axe": {
+    "passes": 479,
+    "violations": 48
+  }
+}

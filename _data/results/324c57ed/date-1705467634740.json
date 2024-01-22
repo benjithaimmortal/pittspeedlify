@@ -1,0 +1,67 @@
+{
+  "url": "https://www.brunnerworks.com/",
+  "requestedUrl": "https://www.brunnerworks.com/",
+  "timestamp": 1705467711317,
+  "ranks": {
+    "hundos": 9,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.74,
+    "accessibility": 0.93,
+    "bestPractices": 0.7,
+    "seo": 0.93,
+    "total": 330
+  },
+  "firstContentfulPaint": 1749.9299,
+  "firstMeaningfulPaint": 1749.9299,
+  "speedIndex": 7589.324934912922,
+  "largestContentfulPaint": 2409.4897,
+  "totalBlockingTime": 617,
+  "cumulativeLayoutShift": 0.02727569816030806,
+  "timeToInteractive": 13552.3138,
+  "maxPotentialFirstInputDelay": 282,
+  "timeToFirstByte": 211.915,
+  "weight": {
+    "summary": "107 requests • 1.6 MiB",
+    "total": 1699444,
+    "image": 584586,
+    "imageCount": 35,
+    "script": 1056424,
+    "scriptCount": 37,
+    "document": 16626,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 26896,
+    "stylesheetCount": 3,
+    "thirdParty": 1148786,
+    "thirdPartyCount": 20
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 19,
+    "-weight.document": 6,
+    "+weight.document": 19,
+    "-weight.script": 19,
+    "+weight.script": 6,
+    "-weight.image": 9,
+    "+weight.image": 16,
+    "-weight.font": 1,
+    "+weight.font": 24,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 458,
+    "violations": 14
+  }
+}

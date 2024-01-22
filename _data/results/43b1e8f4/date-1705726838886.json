@@ -1,0 +1,67 @@
+{
+  "url": "https://www.deeplocal.com/",
+  "requestedUrl": "https://www.deeplocal.com/",
+  "timestamp": 1705727251710,
+  "ranks": {
+    "hundos": 18,
+    "performance": 24,
+    "accessibility": 6,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.37,
+    "accessibility": 0.89,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 301
+  },
+  "firstContentfulPaint": 6968.59524,
+  "firstMeaningfulPaint": 8565.83115,
+  "speedIndex": 10924.658602366493,
+  "largestContentfulPaint": 14802.92988,
+  "totalBlockingTime": 408.5,
+  "cumulativeLayoutShift": 0.18809078553280678,
+  "timeToInteractive": 13862.454,
+  "maxPotentialFirstInputDelay": 458,
+  "timeToFirstByte": 23.626999999999995,
+  "weight": {
+    "summary": "75 requests • 15.9 MiB",
+    "total": 16714072,
+    "image": 15116313,
+    "imageCount": 40,
+    "script": 1167529,
+    "scriptCount": 17,
+    "document": 21939,
+    "font": 312818,
+    "fontCount": 11,
+    "stylesheet": 89481,
+    "stylesheetCount": 2,
+    "thirdParty": 16686235,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 3,
+    "-weight.document": 11,
+    "+weight.document": 14,
+    "-weight.script": 21,
+    "+weight.script": 4,
+    "-weight.image": 23,
+    "+weight.image": 2,
+    "-weight.font": 16,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 21
+  },
+  "axe": {
+    "passes": 993,
+    "violations": 3
+  }
+}

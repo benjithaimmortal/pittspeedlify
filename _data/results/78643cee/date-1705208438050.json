@@ -1,0 +1,67 @@
+{
+  "url": "https://redshiftdm.com/",
+  "requestedUrl": "https://redshiftdm.com/",
+  "timestamp": 1705208682002,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 10,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.96,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.84,
+    "total": 363
+  },
+  "firstContentfulPaint": 1382.4285,
+  "firstMeaningfulPaint": 1415.4285,
+  "speedIndex": 2140.2630627519256,
+  "largestContentfulPaint": 2574.0362,
+  "totalBlockingTime": 58.5,
+  "cumulativeLayoutShift": 0.05304951705146459,
+  "timeToInteractive": 1540.9285,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 261.63399999999996,
+  "weight": {
+    "summary": "76 requests • 1.1 MiB",
+    "total": 1145038,
+    "image": 205635,
+    "imageCount": 20,
+    "script": 19872,
+    "scriptCount": 4,
+    "document": 54988,
+    "font": 284027,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 2,
+    "thirdParty": 102534,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 21,
+    "-weight.document": 20,
+    "+weight.document": 5,
+    "-weight.script": 2,
+    "+weight.script": 23,
+    "-weight.image": 6,
+    "+weight.image": 19,
+    "-weight.font": 13,
+    "+weight.font": 11,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 815,
+    "violations": 17
+  }
+}

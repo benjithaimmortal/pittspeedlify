@@ -1,0 +1,67 @@
+{
+  "url": "https://dotfoundrystg.wpenginepowered.com/contact/",
+  "requestedUrl": "https://dotfoundrystg.wpenginepowered.com/contact/",
+  "timestamp": 1704604106708,
+  "ranks": {
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 8,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 1,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 389
+  },
+  "firstContentfulPaint": 1241.062,
+  "firstMeaningfulPaint": 1241.062,
+  "speedIndex": 1241.062,
+  "largestContentfulPaint": 1466.062,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.026401994293167853,
+  "timeToInteractive": 3017.062,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 178.666,
+  "weight": {
+    "summary": "42 requests • 440.9 KiB",
+    "total": 451520,
+    "image": 5093,
+    "imageCount": 6,
+    "script": 278154,
+    "scriptCount": 26,
+    "document": 41025,
+    "font": 123787,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 2070,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 9,
+    "-weight.document": 9,
+    "+weight.document": 3,
+    "-weight.script": 11,
+    "+weight.script": 1,
+    "-weight.image": 2,
+    "+weight.image": 10,
+    "-weight.font": 5,
+    "+weight.font": 7,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 307,
+    "violations": 6
+  }
+}

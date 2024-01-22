@@ -1,0 +1,67 @@
+{
+  "url": "https://bluetomatodesign.com/",
+  "requestedUrl": "https://bluetomatodesign.com/",
+  "timestamp": 1704430892615,
+  "ranks": {
+    "hundos": 8,
+    "performance": 13,
+    "accessibility": 6,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "bestPractices": 0.78,
+    "seo": 0.95,
+    "total": 324
+  },
+  "firstContentfulPaint": 3589.9348,
+  "firstMeaningfulPaint": 3589.9348,
+  "speedIndex": 8956.963745147961,
+  "largestContentfulPaint": 5827.622,
+  "totalBlockingTime": 201.5,
+  "cumulativeLayoutShift": 0.036606195069161365,
+  "timeToInteractive": 13047.914400000001,
+  "maxPotentialFirstInputDelay": 100,
+  "timeToFirstByte": 352.504,
+  "weight": {
+    "summary": "66 requests • 3.1 MiB",
+    "total": 3284959,
+    "image": 2118567,
+    "imageCount": 36,
+    "script": 845565,
+    "scriptCount": 12,
+    "document": 82543,
+    "font": 14746,
+    "fontCount": 4,
+    "stylesheet": 222736,
+    "stylesheetCount": 5,
+    "thirdParty": 578497,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 14,
+    "-weight.document": 22,
+    "+weight.document": 3,
+    "-weight.script": 17,
+    "+weight.script": 8,
+    "-weight.image": 15,
+    "+weight.image": 10,
+    "-weight.font": 1,
+    "+weight.font": 23,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 989,
+    "violations": 33
+  }
+}

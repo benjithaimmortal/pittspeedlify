@@ -1,0 +1,67 @@
+{
+  "url": "https://www.barkleyus.com/",
+  "requestedUrl": "https://www.barkleyus.com/",
+  "timestamp": 1705035922205,
+  "ranks": {
+    "hundos": 21,
+    "performance": 23,
+    "accessibility": 15,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.38,
+    "accessibility": 0.82,
+    "bestPractices": 0.78,
+    "seo": 0.77,
+    "total": 275
+  },
+  "firstContentfulPaint": 1084.2759999999998,
+  "firstMeaningfulPaint": 3502.749499999999,
+  "speedIndex": 7257.199992386554,
+  "largestContentfulPaint": 13106.718250000009,
+  "totalBlockingTime": 4644.601250000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14374.933249999998,
+  "maxPotentialFirstInputDelay": 566.9999999999982,
+  "timeToFirstByte": 10.811999999999998,
+  "weight": {
+    "summary": "92 requests • 1.7 MiB",
+    "total": 1732937,
+    "image": 379461,
+    "imageCount": 27,
+    "script": 1167901,
+    "scriptCount": 47,
+    "document": 21518,
+    "font": 162270,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1083324,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 18,
+    "-weight.document": 10,
+    "+weight.document": 15,
+    "-weight.script": 22,
+    "+weight.script": 3,
+    "-weight.image": 8,
+    "+weight.image": 17,
+    "-weight.font": 9,
+    "+weight.font": 15,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 19
+  },
+  "axe": {
+    "passes": 618,
+    "violations": 44
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://leaguesdesign.com/",
+  "requestedUrl": "https://leaguesdesign.com/",
+  "timestamp": 1704345019534,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 2264.2439999999997,
+  "firstMeaningfulPaint": 2264.2439999999997,
+  "speedIndex": 2269.3104174124173,
+  "largestContentfulPaint": 3070.8059999999996,
+  "totalBlockingTime": 13,
+  "cumulativeLayoutShift": 0.000034506748000609536,
+  "timeToInteractive": 2334.8999999999996,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 133.63100000000003,
+  "weight": {
+    "summary": "20 requests • 12.9 MiB",
+    "total": 13509088,
+    "image": 0,
+    "imageCount": 0,
+    "script": 150849,
+    "scriptCount": 5,
+    "document": 2901,
+    "font": 51498,
+    "fontCount": 2,
+    "stylesheet": 2158,
+    "stylesheetCount": 1,
+    "thirdParty": 93686,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 1,
+    "-weight.script": 1,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 86,
+    "violations": 7
+  }
+}

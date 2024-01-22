@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bootstrapdesignco.com/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 24,
+    "-weight.document": 24,
+    "+weight.document": 24,
+    "-weight.script": 24,
+    "+weight.script": 24,
+    "-weight.image": 24,
+    "+weight.image": 24,
+    "-weight.font": 23,
+    "+weight.font": 23,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 24
+  }
+}

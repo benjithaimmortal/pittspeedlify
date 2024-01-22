@@ -1,0 +1,67 @@
+{
+  "url": "https://roketco.com/",
+  "requestedUrl": "https://roketco.com/",
+  "timestamp": 1704517427709,
+  "ranks": {
+    "hundos": 20,
+    "performance": 19,
+    "accessibility": 10,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.57,
+    "accessibility": 0.87,
+    "bestPractices": 0.52,
+    "seo": 0.97,
+    "total": 293
+  },
+  "firstContentfulPaint": 3129.7992000000004,
+  "firstMeaningfulPaint": 4317.76245,
+  "speedIndex": 5970.837634880497,
+  "largestContentfulPaint": 12395.912550000001,
+  "totalBlockingTime": 332.5,
+  "cumulativeLayoutShift": 0.005405091890996684,
+  "timeToInteractive": 12677.9415,
+  "maxPotentialFirstInputDelay": 211,
+  "timeToFirstByte": 336.464,
+  "weight": {
+    "summary": "91 requests • 4.4 MiB",
+    "total": 4568568,
+    "image": 1232260,
+    "imageCount": 19,
+    "script": 886862,
+    "scriptCount": 36,
+    "document": 39415,
+    "font": 179340,
+    "fontCount": 9,
+    "stylesheet": 113730,
+    "stylesheetCount": 11,
+    "thirdParty": 833904,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 12,
+    "-weight.document": 17,
+    "+weight.document": 8,
+    "-weight.script": 18,
+    "+weight.script": 7,
+    "-weight.image": 13,
+    "+weight.image": 12,
+    "-weight.font": 10,
+    "+weight.font": 14,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 19
+  },
+  "axe": {
+    "passes": 704,
+    "violations": 39
+  }
+}

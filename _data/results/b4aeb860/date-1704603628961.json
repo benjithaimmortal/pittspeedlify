@@ -1,0 +1,67 @@
+{
+  "url": "https://dotfoundrystg.wpenginepowered.com/what-a-design-collective-does/",
+  "requestedUrl": "https://dotfoundrystg.wpenginepowered.com/what-a-design-collective-does/",
+  "timestamp": 1704604114772,
+  "ranks": {
+    "hundos": 10,
+    "performance": 9,
+    "accessibility": 6,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 381
+  },
+  "firstContentfulPaint": 1001.0435,
+  "firstMeaningfulPaint": 1001.0435,
+  "speedIndex": 1001.0435,
+  "largestContentfulPaint": 1686.0435,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.1799249312910089,
+  "timeToInteractive": 3463.0434999999998,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 175.172,
+  "weight": {
+    "summary": "45 requests • 7.5 MiB",
+    "total": 7882321,
+    "image": 168160,
+    "imageCount": 10,
+    "script": 249182,
+    "scriptCount": 23,
+    "document": 40013,
+    "font": 123992,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 3606,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 2,
+    "-weight.document": 6,
+    "+weight.document": 6,
+    "-weight.script": 4,
+    "+weight.script": 8,
+    "-weight.image": 9,
+    "+weight.image": 3,
+    "-weight.font": 7,
+    "+weight.font": 5,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 358,
+    "violations": 6
+  }
+}

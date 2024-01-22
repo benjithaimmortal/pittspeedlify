@@ -1,0 +1,67 @@
+{
+  "url": "https://dotfoundry.co/talent/",
+  "requestedUrl": "https://dotfoundry.co/talent/",
+  "timestamp": 1704431367464,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 10,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1260.3519999999999,
+  "firstMeaningfulPaint": 1260.3519999999999,
+  "speedIndex": 1260.3519999999999,
+  "largestContentfulPaint": 1485.3519999999999,
+  "totalBlockingTime": 70,
+  "cumulativeLayoutShift": 0.020935199061886244,
+  "timeToInteractive": 4672.352,
+  "maxPotentialFirstInputDelay": 128,
+  "timeToFirstByte": 80.831,
+  "weight": {
+    "summary": "37 requests • 910.1 KiB",
+    "total": 931953,
+    "image": 464771,
+    "imageCount": 4,
+    "script": 266496,
+    "scriptCount": 24,
+    "document": 40498,
+    "font": 159235,
+    "fontCount": 5,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 3,
+    "-weight.document": 8,
+    "+weight.document": 4,
+    "-weight.script": 7,
+    "+weight.script": 5,
+    "-weight.image": 10,
+    "+weight.image": 2,
+    "-weight.font": 10,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 313,
+    "violations": 17
+  }
+}

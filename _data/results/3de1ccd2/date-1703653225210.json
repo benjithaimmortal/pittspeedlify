@@ -1,0 +1,20 @@
+{
+  "url": "https://dotfoundrystgswpenginepowered.com/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 11,
+    "-weight.document": 11,
+    "+weight.document": 11,
+    "-weight.script": 11,
+    "+weight.script": 11,
+    "-weight.image": 11,
+    "+weight.image": 11,
+    "-weight.font": 11,
+    "+weight.font": 11,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 11
+  }
+}

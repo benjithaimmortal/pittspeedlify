@@ -1,0 +1,55 @@
+{
+  "url": "https://roketco.com/",
+  "requestedUrl": "https://roketco.com/",
+  "timestamp": 1703394248119,
+  "ranks": {
+    "hundos": 22,
+    "performance": 22,
+    "accessibility": 7,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": null,
+    "accessibility": 0.9,
+    "bestPractices": null,
+    "seo": 0.97,
+    "total": 187
+  },
+  "timeToFirstByte": 1830.461,
+  "weight": {
+    "summary": "90 requests • 4.4 MiB",
+    "total": 4564124,
+    "image": 1232446,
+    "imageCount": 19,
+    "script": 882153,
+    "scriptCount": 35,
+    "document": 39597,
+    "font": 179288,
+    "fontCount": 9,
+    "stylesheet": 113610,
+    "stylesheetCount": 11,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 11,
+    "-weight.document": 16,
+    "+weight.document": 7,
+    "-weight.script": 17,
+    "+weight.script": 6,
+    "-weight.image": 12,
+    "+weight.image": 11,
+    "-weight.font": 10,
+    "+weight.font": 12,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 21,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 22
+  },
+  "axe": {
+    "passes": 704,
+    "violations": 39
+  }
+}

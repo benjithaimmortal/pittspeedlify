@@ -1,0 +1,67 @@
+{
+  "url": "https://cosmitto.digital/",
+  "requestedUrl": "https://cosmitto.digital/",
+  "timestamp": 1704025702439,
+  "ranks": {
+    "hundos": 21,
+    "performance": 14,
+    "accessibility": 13,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.6,
+    "accessibility": 0.82,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 287
+  },
+  "firstContentfulPaint": 2436.2007,
+  "firstMeaningfulPaint": 3131.9312,
+  "speedIndex": 6012.697697197706,
+  "largestContentfulPaint": 9108.330000000002,
+  "totalBlockingTime": 310.49999999999955,
+  "cumulativeLayoutShift": 0.00015306410515650946,
+  "timeToInteractive": 9458.557,
+  "maxPotentialFirstInputDelay": 309,
+  "timeToFirstByte": 89.87299999999999,
+  "weight": {
+    "summary": "69 requests • 1.3 MiB",
+    "total": 1356893,
+    "image": 615354,
+    "imageCount": 22,
+    "script": 571385,
+    "scriptCount": 29,
+    "document": 8491,
+    "font": 116307,
+    "fontCount": 4,
+    "stylesheet": 43091,
+    "stylesheetCount": 5,
+    "thirdParty": 695980,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 18,
+    "-weight.document": 1,
+    "+weight.document": 22,
+    "-weight.script": 8,
+    "+weight.script": 15,
+    "-weight.image": 10,
+    "+weight.image": 13,
+    "-weight.font": 5,
+    "+weight.font": 17,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 128,
+    "violations": 2
+  }
+}

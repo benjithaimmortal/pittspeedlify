@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sparqdesigns.com/",
+  "requestedUrl": "https://www.sparqdesigns.com/",
+  "timestamp": 1704603896933,
+  "ranks": {
+    "hundos": 11,
+    "performance": 12,
+    "accessibility": 11,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.63,
+    "accessibility": 0.87,
+    "bestPractices": 0.7,
+    "seo": 0.92,
+    "total": 312
+  },
+  "firstContentfulPaint": 2494.3862,
+  "firstMeaningfulPaint": 3614.6144,
+  "speedIndex": 9312.6766379635,
+  "largestContentfulPaint": 10622.238050000002,
+  "totalBlockingTime": 36.5,
+  "cumulativeLayoutShift": 0.008553016791957252,
+  "timeToInteractive": 9532.165800000002,
+  "maxPotentialFirstInputDelay": 80,
+  "timeToFirstByte": 278.18600000000004,
+  "weight": {
+    "summary": "86 requests • 4.5 MiB",
+    "total": 4763405,
+    "image": 3462791,
+    "imageCount": 35,
+    "script": 811461,
+    "scriptCount": 32,
+    "document": 15662,
+    "font": 358512,
+    "fontCount": 6,
+    "stylesheet": 113324,
+    "stylesheetCount": 4,
+    "thirdParty": 642990,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 14,
+    "+weight.total": 11,
+    "-weight.document": 4,
+    "+weight.document": 21,
+    "-weight.script": 16,
+    "+weight.script": 9,
+    "-weight.image": 18,
+    "+weight.image": 7,
+    "-weight.font": 18,
+    "+weight.font": 6,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 16
+  },
+  "axe": {
+    "passes": 723,
+    "violations": 74
+  }
+}

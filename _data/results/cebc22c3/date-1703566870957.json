@@ -1,0 +1,67 @@
+{
+  "url": "https://redtreewebdesign.com/",
+  "requestedUrl": "https://redtreewebdesign.com/",
+  "timestamp": 1703566898187,
+  "ranks": {
+    "hundos": 5,
+    "performance": 6,
+    "accessibility": 4,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "bestPractices": 0.78,
+    "seo": 0.93,
+    "total": 333
+  },
+  "firstContentfulPaint": 2556.1682999999994,
+  "firstMeaningfulPaint": 2556.1682999999994,
+  "speedIndex": 3722.3921873854088,
+  "largestContentfulPaint": 8282.1257,
+  "totalBlockingTime": 115.5,
+  "cumulativeLayoutShift": 0.00005555803451670466,
+  "timeToInteractive": 9463.2516,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 162.94299999999998,
+  "weight": {
+    "summary": "54 requests • 1.1 MiB",
+    "total": 1102300,
+    "image": 179265,
+    "imageCount": 8,
+    "script": 576324,
+    "scriptCount": 15,
+    "document": 16861,
+    "font": 184210,
+    "fontCount": 4,
+    "stylesheet": 161714,
+    "stylesheetCount": 18,
+    "thirdParty": 659240,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 20,
+    "-weight.document": 7,
+    "+weight.document": 16,
+    "-weight.script": 9,
+    "+weight.script": 14,
+    "-weight.image": 5,
+    "+weight.image": 18,
+    "-weight.font": 11,
+    "+weight.font": 11,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 787,
+    "violations": 7
+  }
+}

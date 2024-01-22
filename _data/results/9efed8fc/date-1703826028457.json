@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gatesmanagency.com/",
+  "requestedUrl": "https://www.gatesmanagency.com/",
+  "timestamp": 1703826156507,
+  "ranks": {
+    "hundos": 15,
+    "performance": 18,
+    "accessibility": 12,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.57,
+    "accessibility": 0.83,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 300
+  },
+  "firstContentfulPaint": 8786.541200000003,
+  "firstMeaningfulPaint": 8786.541200000003,
+  "speedIndex": 8786.541200000003,
+  "largestContentfulPaint": 11119.612800000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.005979454965647691,
+  "timeToInteractive": 8786.541200000003,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 21.289999999999992,
+  "weight": {
+    "summary": "44 requests • 9.8 MiB",
+    "total": 10283298,
+    "image": 376426,
+    "imageCount": 11,
+    "script": 683779,
+    "scriptCount": 12,
+    "document": 33334,
+    "font": 1119346,
+    "fontCount": 3,
+    "stylesheet": 32396,
+    "stylesheetCount": 2,
+    "thirdParty": 10267368,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 6,
+    "-weight.document": 12,
+    "+weight.document": 11,
+    "-weight.script": 12,
+    "+weight.script": 11,
+    "-weight.image": 7,
+    "+weight.image": 16,
+    "-weight.font": 20,
+    "+weight.font": 2,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 15
+  },
+  "axe": {
+    "passes": 724,
+    "violations": 55
+  }
+}
