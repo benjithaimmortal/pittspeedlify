@@ -1,0 +1,67 @@
+{
+  "url": "https://www.walltowall.com/",
+  "requestedUrl": "https://www.walltowall.com/",
+  "timestamp": 1705948465113,
+  "ranks": {
+    "hundos": 19,
+    "performance": 12,
+    "accessibility": 23,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.69,
+    "accessibility": 0.69,
+    "bestPractices": 0.78,
+    "seo": 0.9,
+    "total": 306
+  },
+  "firstContentfulPaint": 3106.9409,
+  "firstMeaningfulPaint": 3504.7981999999997,
+  "speedIndex": 10126.970235559025,
+  "largestContentfulPaint": 4569.4841,
+  "totalBlockingTime": 43.5,
+  "cumulativeLayoutShift": 0.003577445555970549,
+  "timeToInteractive": 20893.98120000001,
+  "maxPotentialFirstInputDelay": 117,
+  "timeToFirstByte": 137.912,
+  "weight": {
+    "summary": "44 requests • 17.9 MiB",
+    "total": 18754680,
+    "image": 3708846,
+    "imageCount": 22,
+    "script": 3261918,
+    "scriptCount": 9,
+    "document": 59473,
+    "font": 99404,
+    "fontCount": 3,
+    "stylesheet": 254420,
+    "stylesheetCount": 3,
+    "thirdParty": 417840,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 23,
+    "+weight.total": 2,
+    "-weight.document": 21,
+    "+weight.document": 4,
+    "-weight.script": 24,
+    "+weight.script": 1,
+    "-weight.image": 19,
+    "+weight.image": 6,
+    "-weight.font": 3,
+    "+weight.font": 21,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 15,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 374,
+    "violations": 52
+  }
+}
