@@ -3,7 +3,7 @@ module.exports = {
 	description: "other popular Dot Foundry pages",
 	unordered: true,
 	options: {
-		runs: 2,
+		runs: 1,
 		frequency: 60 * 23, // (in minutes)
 		// bypassAxe: true,
 		// frequency: 1, // (in minutes)

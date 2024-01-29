@@ -5,7 +5,7 @@ module.exports = {
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	// skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
 	options: {
-        runs: 3,
+        runs: 1,
 		frequency: 60, // 24 hours
 		// frequency: 1,
         // bypassAxe: true,
