@@ -1,0 +1,67 @@
+{
+  "url": "https://huemor.rocks/",
+  "requestedUrl": "https://huemor.rocks/",
+  "timestamp": 1707132644412,
+  "ranks": {
+    "hundos": 11,
+    "performance": 7,
+    "accessibility": 18,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.71,
+    "accessibility": 0.81,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 319
+  },
+  "firstContentfulPaint": 2541.2725,
+  "firstMeaningfulPaint": 3860.42355,
+  "speedIndex": 6462.963721544097,
+  "largestContentfulPaint": 4943.387200000001,
+  "totalBlockingTime": 155.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10731.032100000004,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 100.80400000000003,
+  "weight": {
+    "summary": "104 requests • 3.0 MiB",
+    "total": 3160059,
+    "image": 64906,
+    "imageCount": 25,
+    "script": 758770,
+    "scriptCount": 43,
+    "document": 36897,
+    "font": 67292,
+    "fontCount": 2,
+    "stylesheet": 161342,
+    "stylesheetCount": 16,
+    "thirdParty": 2723174,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 15,
+    "-weight.document": 16,
+    "+weight.document": 9,
+    "-weight.script": 14,
+    "+weight.script": 11,
+    "-weight.image": 2,
+    "+weight.image": 23,
+    "-weight.font": 2,
+    "+weight.font": 22,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "passes": 1775,
+    "violations": 89
+  }
+}

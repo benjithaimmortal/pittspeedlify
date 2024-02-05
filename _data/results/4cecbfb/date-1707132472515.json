@@ -1,0 +1,67 @@
+{
+  "url": "https://www.zoltun.com/",
+  "requestedUrl": "https://www.zoltun.com/",
+  "timestamp": 1707132672720,
+  "ranks": {
+    "hundos": 20,
+    "performance": 6,
+    "accessibility": 24,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.72,
+    "accessibility": 0.68,
+    "bestPractices": 0.78,
+    "seo": 0.86,
+    "total": 304
+  },
+  "firstContentfulPaint": 2648.0039999999995,
+  "firstMeaningfulPaint": 3090.9785999999995,
+  "speedIndex": 28845.642191959098,
+  "largestContentfulPaint": 4263.970499999999,
+  "totalBlockingTime": 41,
+  "cumulativeLayoutShift": 0.0001755819805348499,
+  "timeToInteractive": 26944.217511407467,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 714.754,
+  "weight": {
+    "summary": "123 requests • 33.7 MiB",
+    "total": 35370086,
+    "image": 34642508,
+    "imageCount": 56,
+    "script": 426364,
+    "scriptCount": 32,
+    "document": 53244,
+    "font": 145813,
+    "fontCount": 5,
+    "stylesheet": 92302,
+    "stylesheetCount": 23,
+    "thirdParty": 412004,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 1,
+    "-weight.document": 19,
+    "+weight.document": 6,
+    "-weight.script": 6,
+    "+weight.script": 19,
+    "-weight.image": 24,
+    "+weight.image": 1,
+    "-weight.font": 7,
+    "+weight.font": 17,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 21,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 1652,
+    "violations": 57
+  }
+}
