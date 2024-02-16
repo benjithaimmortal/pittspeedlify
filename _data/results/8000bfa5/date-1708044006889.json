@@ -1,0 +1,67 @@
+{
+  "url": "https://landesbergdesign.com/",
+  "requestedUrl": "https://landesbergdesign.com/",
+  "timestamp": 1708044167932,
+  "ranks": {
+    "hundos": 15,
+    "performance": 18,
+    "accessibility": 19,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.6,
+    "accessibility": 0.8,
+    "bestPractices": 0.78,
+    "seo": 0.91,
+    "total": 309
+  },
+  "firstContentfulPaint": 3207.4115000000006,
+  "firstMeaningfulPaint": 4279.8514,
+  "speedIndex": 10258.614604650666,
+  "largestContentfulPaint": 19864.428550000004,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.014880379581206802,
+  "timeToInteractive": 4764.422050000001,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 141.82799999999997,
+  "weight": {
+    "summary": "59 requests • 8.9 MiB",
+    "total": 9328632,
+    "image": 8607588,
+    "imageCount": 27,
+    "script": 282271,
+    "scriptCount": 8,
+    "document": 19896,
+    "font": 292072,
+    "fontCount": 6,
+    "stylesheet": 126572,
+    "stylesheetCount": 12,
+    "thirdParty": 480829,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 8,
+    "-weight.document": 8,
+    "+weight.document": 17,
+    "-weight.script": 4,
+    "+weight.script": 21,
+    "-weight.image": 22,
+    "+weight.image": 3,
+    "-weight.font": 14,
+    "+weight.font": 10,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "passes": 324,
+    "violations": 24
+  }
+}
