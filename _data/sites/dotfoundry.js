@@ -20,6 +20,7 @@ module.exports = {
 		// regular site
         "https://dotfoundry.co/talent/",
 		"https://dotfoundry.co/contact/",
+		// "https://dotfoundry.co/blog/",
         // popular posts
         "https://dotfoundry.co/what-a-design-collective-does/",
         "https://dotfoundry.co/illustrations-for-inktober-the-sketchiest-time-of-year/",

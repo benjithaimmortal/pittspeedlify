@@ -1,0 +1,67 @@
+{
+  "url": "https://dotfoundry.co/illustrations-for-inktober-the-sketchiest-time-of-year/",
+  "requestedUrl": "https://dotfoundry.co/illustrations-for-inktober-the-sketchiest-time-of-year/",
+  "timestamp": 1709138149142,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 969.3005,
+  "firstMeaningfulPaint": 969.3005,
+  "speedIndex": 1273.3975330038782,
+  "largestContentfulPaint": 1315.3005,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.07713933715177433,
+  "timeToInteractive": 2033.8005000000003,
+  "maxPotentialFirstInputDelay": 58,
+  "timeToFirstByte": 473.913,
+  "weight": {
+    "summary": "42 requests • 503.9 KiB",
+    "total": 515999,
+    "image": 144569,
+    "imageCount": 6,
+    "script": 240304,
+    "scriptCount": 27,
+    "document": 41209,
+    "font": 87012,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1951,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 6,
+    "-weight.document": 1,
+    "+weight.document": 6,
+    "-weight.script": 1,
+    "+weight.script": 6,
+    "-weight.image": 3,
+    "+weight.image": 4,
+    "-weight.font": 1,
+    "+weight.font": 6,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 305,
+    "violations": 2
+  }
+}
