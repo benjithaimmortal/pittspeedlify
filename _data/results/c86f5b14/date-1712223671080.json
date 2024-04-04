@@ -1,0 +1,67 @@
+{
+  "url": "https://dotfoundry.co/what-a-design-collective-does/",
+  "requestedUrl": "https://dotfoundry.co/what-a-design-collective-does/",
+  "timestamp": 1712224067176,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 1,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 998.937,
+  "firstMeaningfulPaint": 998.937,
+  "speedIndex": 1354.4136689591846,
+  "largestContentfulPaint": 3332.937,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.028980353090713815,
+  "timeToInteractive": 998.937,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 115.00899999999999,
+  "weight": {
+    "summary": "50 requests • 7.6 MiB",
+    "total": 8019192,
+    "image": 165845,
+    "imageCount": 8,
+    "script": 364741,
+    "scriptCount": 30,
+    "document": 41709,
+    "font": 123150,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 126219,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 1,
+    "-weight.document": 2,
+    "+weight.document": 4,
+    "-weight.script": 3,
+    "+weight.script": 3,
+    "-weight.image": 4,
+    "+weight.image": 2,
+    "-weight.font": 4,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 334,
+    "violations": 2
+  }
+}

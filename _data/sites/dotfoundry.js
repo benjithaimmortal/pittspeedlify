@@ -19,7 +19,7 @@ module.exports = {
         // "https://dotfoundrystg.wpenginepowered.com/post-ai-graphic-design/",
 		// regular site
         "https://dotfoundry.co/talent/",
-		"https://dotfoundry.co/contact/",
+				"https://dotfoundry.co/contact/",
 		// "https://dotfoundry.co/blog/",
         // popular posts
         "https://dotfoundry.co/what-a-design-collective-does/",
