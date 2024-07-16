@@ -1,0 +1,20 @@
+{
+  "url": "https://landesbergdesign.com/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 22,
+    "-weight.document": 22,
+    "+weight.document": 22,
+    "-weight.script": 22,
+    "+weight.script": 22,
+    "-weight.image": 22,
+    "+weight.image": 22,
+    "-weight.font": 21,
+    "+weight.font": 21,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 22
+  }
+}
