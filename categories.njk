@@ -56,7 +56,7 @@ counts:
 						<img src="{% if ((vertical == "agencies") and (site[newestKey].url.includes("dotfoundry") !== true)) %}/assets/images/red-circle.svg{% else %}https://v1.indieweb-avatar.11ty.dev/{{ site[newestKey].url | urlencode }}/{% endif %}" width="150" height="150" alt="{% if ((vertical == "agencies") and (site[newestKey].url.includes("dotfoundry") !== true)) %}Favicon redacted!{% else %}IndieWeb Avatar for {{ site[newestKey].url | displayUrl }}{% endif %}" class="leaderboard-list-entry-thumbnail" loading="lazy" decoding="async">
 						<code class="url">{% if ((vertical == "agencies") and (site[newestKey].url.includes("dotfoundry") !== true)) %}redacted.com/{% else %}{{ site[newestKey].url | displayUrl(hasRedirect) }}{% endif %}</code>{#
 					#}</a>
-					{%- if hasRedirect %}<span class="leaderboard-redirect-warn">Redirect from <code class="url">{{ site[newestKey].requestedUrl | displayUrl(true) }}</code></span>{% endif -%}
+					{%- if hasRedirect %}<span class="leaderboard-redirect-warn">Redirect from REDACTED</span>{% endif -%}
 					{%- if site[newestKey].error %}<span class="leaderboard-redirect-error">Error</span>{% endif -%}
 				</td>
 				<td class="leaderboard-hide-md">

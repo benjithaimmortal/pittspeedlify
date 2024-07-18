@@ -24,7 +24,7 @@ module.exports = {
         "https://www.responsival.com/",
         "https://www.brunnerworks.com/",
         "https://carney.co/",
-        "https://finehumans.com/",
+        "https://www.finehumans.com/",
         "https://www.deeplocal.com/",
         "https://www.gatesmanagency.com/",
         "https://www.bootstrapdesignco.com/",
